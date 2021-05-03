@@ -1,6 +1,6 @@
-Este repositório faz parte do primeiro assignment da disciplina [12542] Seminário II: Comunicação e Artes da Universidade Lusófona de Humanidades e Tecnologias
+This repository is part of the first assignment of the discipline [12542] Seminário II: Comunicação e Artes from Universidade Lusófona de Humanidades e Tecnologias
 
-# Explicação dos arquivos
+# Files Explanation
 
 ## Datasets
 
